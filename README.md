@@ -1,21 +1,5 @@
-# Horiseon 
+# Code Refactor Starter Code
 
 ## Description
-
-This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
-
-## Installation
-
-N/A
-
-## Usage
-
-Each section of this webpage contains notes on topics discussed during the pre work activity. Developers can find notes on HTML, CSS, GIT, and JavaScript! If the user opens the DevTools console, JavaScript can be observed running and choosing a random topic to study.
-
-## Credits
-
-N/A
-
-## License
-
-Please refer to the LICENSE in the repo.
+The purpose of this refactor of the webpage for Horiseon Social Solution Services was to make it accessible by including semantic HTML elements and adding alt elements to images.
+I have condensed the CSS file to reduce redundancy and included comments for easier viewing of the code itself
